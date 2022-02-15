@@ -1,0 +1,17 @@
+body{
+    width: 60%;
+    margin: auto;
+}
+.container{
+    text-align: center;
+}
+.container h1{
+    background-color: pink;
+    margin: 0;
+}
+.container p{
+    margin: 0;
+    background-color: gray;
+}
+
+
